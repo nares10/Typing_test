@@ -1,4 +1,3 @@
-#//uiuiuiu
 import time
 
 def typing_speed_test():
